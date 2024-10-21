@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React native** and **Nest.js**
+- 🌱 I’m currently learning **React native** and **Python**
 
-- 👨‍💻 All of my projects are available at [https://mugabo-shafi-danny-portfolio.netlify.app/](https://mugabo-shafi-danny-portfolio.netlify.app/)
-
-- 💬 Ask me about **TypeScript, Node.js, React, ExpressJs, Tailwind, MongoDB, PostgreSQL...**
+- 💬 Ask me about **TypeScript, Node.js, React, ExpressJs, Tailwind, MongoDB, NestJs, Next.Js, PostgreSQL...**
 
 - 📫 How to reach me **mugabodannyshafi@gmail.com**
 
