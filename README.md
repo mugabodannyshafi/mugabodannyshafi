@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React native** and **Python**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **TypeScript, Node.js, React, ExpressJs, Tailwind, MongoDB, NestJs, Next.Js, PostgreSQL...**
 
