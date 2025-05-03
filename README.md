@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **TypeScript, Node.js, React, ExpressJs, Tailwind, MongoDB, NestJs, Next.Js, PostgreSQL...**
+- 💬 Ask me about **TypeScript, Node.js, NestJs, React, ExpressJs, Tailwind, MongoDB, Next.Js, PostgreSQL...**
 
 - 📫 How to reach me **mugabodannyshafi@gmail.com**
 
