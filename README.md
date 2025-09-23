@@ -18,13 +18,13 @@ const stack = {
 
 ## Featured Projects
 
-### [Nestify](https://www.npmjs.com/package/nestify)
+### [Nestify](https://srt.rw/qG5f2b)
 Enhanced CLI for NestJS - scaffolds production-ready projects with Docker, CI/CD, and testing setups in seconds.
 
 ### [Lost and Found Kigali](https://lost-found-kigali.vercel.app/)
 Community platform helping people recover lost items through reporting and search features.
 
-### Fashion E-commerce Platform
+### [Fashion E-commerce Platform](https://roumeza.vercel.app/)
 Full-stack e-commerce solution with payment processing, inventory management, and analytics.
 
 
