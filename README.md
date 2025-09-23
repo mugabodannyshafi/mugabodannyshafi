@@ -8,9 +8,9 @@ Building scalable web applications and developer tools that solve real problems.
 
 ```typescript
 const stack = {
-  languages: ['TypeScript', 'JavaScript', 'Go'],
-  frontend: ['React', 'Next.js', 'Vue.js', 'Tailwind CSS'],
-  backend: ['NestJS', 'Node.js', 'Express.js'],
+  languages: ['TypeScript', 'JavaScript', 'Python'],
+  frontend: ['Html', 'CSS','React', 'Next.js', 'Tailwind CSS'],
+  backend: ['Node.js', 'NestJS', 'Express.js', 'Django'],
   databases: ['MongoDB', 'PostgreSQL', 'MySQL', 'Redis'],
   tools: ['Docker', 'Jest', 'GitHub Actions']
 };
