@@ -1,6 +1,6 @@
 # Hey, I'm MUGABO Shafi Danny!
 
-**Software Developer at [Academic Bridge](https://academicbridge.xyz/)**
+**Currently a Software Developer at [Academic Bridge](https://academicbridge.xyz/)**
 
 Building scalable web applications and developer tools that solve real problems.
 
