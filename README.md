@@ -18,7 +18,7 @@ const stack = {
 
 ## Featured Projects
 
-### [Nestify](https://srt.rw/qG5f2b)
+### [Nestify](https://srt.rw/rT9RNP)
 Enhanced CLI for NestJS - scaffolds production-ready projects with Docker, CI/CD, and testing setups in seconds.
 
 ### [Lost and Found Kigali](https://lost-found-kigali.vercel.app/)
